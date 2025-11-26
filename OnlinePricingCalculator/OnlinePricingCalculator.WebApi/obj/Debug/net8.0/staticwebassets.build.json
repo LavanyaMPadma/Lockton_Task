@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RKoNwbTj7Mg7PHH5TLIW0oa2ouvW9ZH5Qw6OC2D55yc=",
+  "Source": "OnlinePricingCalculator.WebApi",
+  "BasePath": "_content/OnlinePricingCalculator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

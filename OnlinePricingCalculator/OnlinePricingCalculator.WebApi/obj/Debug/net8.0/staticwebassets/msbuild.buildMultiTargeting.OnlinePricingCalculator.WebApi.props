@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OnlinePricingCalculator.WebApi.props" />
+</Project>

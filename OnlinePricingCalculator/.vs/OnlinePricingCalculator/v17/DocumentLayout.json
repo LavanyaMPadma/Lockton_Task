@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\OnlinePricingCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\onlinepricingcalculator.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\onlinepricingcalculator.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.application\\services\\pricecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|solutionrelative:onlinepricingcalculator.application\\services\\pricecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.infrastructure\\persistence\\pricingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|solutionrelative:onlinepricingcalculator.infrastructure\\persistence\\pricingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.infrastructure\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|solutionrelative:onlinepricingcalculator.infrastructure\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\entities\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.infrastructure\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|solutionrelative:onlinepricingcalculator.infrastructure\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\model\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\model\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.application\\dtos\\basketdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|solutionrelative:onlinepricingcalculator.application\\dtos\\basketdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\model\\calculatepricefinalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\model\\calculatepricefinalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\AINS_Project\\IPISPro\\IPISPro.UI\\IPISPro.UI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\entities\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\entities\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\interfaces\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\interfaces\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\model\\calculateresultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\model\\calculateresultitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\model\\getitemsresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\model\\getitemsresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5686DD8A-B1CD-4737-B226-CCB66B873B60}|OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj|solutionrelative:onlinepricingcalculator.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\onlinepricingcalculator.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\onlinepricingcalculator.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A892EBDD-34EC-4687-9515-64945C44F4E6}|OnlinePricingCalculator.Infrastructure\\OnlinePricingCalculator.Infrastructure.csproj|solutionrelative:onlinepricingcalculator.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.application\\interfaces\\ipricecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|solutionrelative:onlinepricingcalculator.application\\interfaces\\ipricecalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.domain\\entities\\discountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2D2CB-3536-4848-B9F7-98C63A6B4ED9}|OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj|solutionrelative:onlinepricingcalculator.domain\\entities\\discountitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|c:\\dev\\onlinepricingcalculator\\onlinepricingcalculator.application\\onlinepricingcalculator.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47EB9E5A-F3E1-4532-BC9C-CD9D025AA662}|OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj|solutionrelative:onlinepricingcalculator.application\\onlinepricingcalculator.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketDtos.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\DTOs\\BasketDtos.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Application\\DTOs\\BasketDtos.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\DTOs\\BasketDtos.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Application\\DTOs\\BasketDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:35:08.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceCalculatorService.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\Services\\PriceCalculatorService.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Application\\Services\\PriceCalculatorService.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\Services\\PriceCalculatorService.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Application\\Services\\PriceCalculatorService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:36:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\ItemDto.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Model\\ItemDto.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\ItemDto.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Model\\ItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:03:27.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Infrastructure\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Infrastructure\\Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:37:55.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Interfaces\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Interfaces\\IItemRepository.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Interfaces\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:34:06.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\Discount.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Entities\\Discount.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\Discount.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Entities\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:30:41.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscountRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Repositories\\DiscountRepository.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Infrastructure\\Repositories\\DiscountRepository.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Repositories\\DiscountRepository.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Infrastructure\\Repositories\\DiscountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:39:41.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PricingDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Persistence\\PricingDbContext.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Infrastructure\\Persistence\\PricingDbContext.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Persistence\\PricingDbContext.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Infrastructure\\Persistence\\PricingDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:22:42.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlinePricingCalculator.WebApi.csproj",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\OnlinePricingCalculator.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T06:43:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBMAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:10:28.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculatePriceFinalResponse.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\CalculatePriceFinalResponse.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Model\\CalculatePriceFinalResponse.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\CalculatePriceFinalResponse.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Model\\CalculatePriceFinalResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:30:18.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDiscountRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Interfaces\\IDiscountRepository.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Interfaces\\IDiscountRepository.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Interfaces\\IDiscountRepository.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Interfaces\\IDiscountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:34:25.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Program.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Program.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:10:15.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPISPro.UI.csproj",
+              "DocumentMoniker": "C:\\AINS_Project\\IPISPro\\IPISPro.UI\\IPISPro.UI.csproj",
+              "RelativeDocumentMoniker": "..\\..\\AINS_Project\\IPISPro\\IPISPro.UI\\IPISPro.UI.csproj",
+              "ToolTip": "C:\\AINS_Project\\IPISPro\\IPISPro.UI\\IPISPro.UI.csproj",
+              "RelativeToolTip": "..\\..\\AINS_Project\\IPISPro\\IPISPro.UI\\IPISPro.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T09:42:25.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Class1.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Class1.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:35:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:40:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DiscountType.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\DiscountType.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Entities\\DiscountType.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\DiscountType.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Entities\\DiscountType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:30:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetItemsResponse.cs.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\GetItemsResponse.cs.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Model\\GetItemsResponse.cs.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\GetItemsResponse.cs.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Model\\GetItemsResponse.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:16:53.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalculateResultItem.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\CalculateResultItem.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\Model\\CalculateResultItem.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\Model\\CalculateResultItem.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\Model\\CalculateResultItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:21:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Entities\\Item.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBAwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:29:00.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.WebApi\\appsettings.json",
+              "RelativeToolTip": "OnlinePricingCalculator.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T06:10:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OnlinePricingCalculator.Domain.csproj",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\OnlinePricingCalculator.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T06:32:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:36:34.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DiscountItem.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Domain\\Entities\\DiscountItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:30:28.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPriceCalculatorService.cs",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\Interfaces\\IPriceCalculatorService.cs",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Application\\Interfaces\\IPriceCalculatorService.cs",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\Interfaces\\IPriceCalculatorService.cs",
+              "RelativeToolTip": "OnlinePricingCalculator.Application\\Interfaces\\IPriceCalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:11:41.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAwL0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-24T06:19:48.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OnlinePricingCalculator.Application.csproj",
+              "DocumentMoniker": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj",
+              "RelativeDocumentMoniker": "OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj",
+              "ToolTip": "C:\\Dev\\OnlinePricingCalculator\\OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj",
+              "RelativeToolTip": "OnlinePricingCalculator.Application\\OnlinePricingCalculator.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T06:12:57.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

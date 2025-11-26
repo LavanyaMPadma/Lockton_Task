@@ -1,0 +1,15 @@
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\bin\Debug\net8.0\OnlinePricingCalculator.Application.deps.json
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\bin\Debug\net8.0\OnlinePricingCalculator.Application.dll
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\bin\Debug\net8.0\OnlinePricingCalculator.Application.pdb
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\bin\Debug\net8.0\OnlinePricingCalculator.Domain.dll
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\bin\Debug\net8.0\OnlinePricingCalculator.Domain.pdb
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.csproj.AssemblyReference.cache
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.AssemblyInfoInputs.cache
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.AssemblyInfo.cs
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.csproj.CoreCompileInputs.cache
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePr.20FDF7D9.Up2Date
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.dll
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\refint\OnlinePricingCalculator.Application.dll
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\OnlinePricingCalculator.Application.pdb
+C:\Dev\OnlinePricingCalculator\OnlinePricingCalculator.Application\obj\Debug\net8.0\ref\OnlinePricingCalculator.Application.dll
